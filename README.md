@@ -1,5 +1,5 @@
-# UDK Game Development [Video]
-This is the code repository for [UDK Game Development [Video]](https://www.packtpub.com/game-development/udk-game-development-video?utm_source=github&utm_medium=repository&utm_campaign=9781849696180), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the video course from start to finish.
+# Building a Road using Civil 3D [Video]
+This is the code repository for [Building a Road using Civil 3D [Video]](https://www.packtpub.com/hardware-and-creative/building-road-using-civil-3d-video?utm_source=github&utm_medium=repository&utm_campaign=9781783550074), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the video course from start to finish.
 ## About the Video Course
 Designing roads is a complex engineering process, and Civil 3D is a powerful tool that aids you in this process. Civil 3D comes with a dynamic modelling system that combines a variety of its easy-to-use tools to automate tasks and generate all the necessary components needed to design and build a road.
 
@@ -23,10 +23,10 @@ To fully benefit from the coverage included in this course, you will need:<br/>
 Basic knowledge of Civil 3D is required.
 ### Technical Requirements
 This course has the following software requirements:<br/>
-OS: Windows
-HDD: 500GB
-RAM: 4GB
-
+OS: Linux, Windows, MAC
+Processor: 2.4 GHz
+Memory: 4 GB
+Storage: 100 GB
 
 ## Related Products
 * [Extended Reality (XR) - Building AR | VR | MR Projects [Video]](https://www.packtpub.com/game-development/extended-reality-xr-building-ar-vr-mr-projects-video?utm_source=github&utm_medium=repository&utm_campaign=9781838559694)
